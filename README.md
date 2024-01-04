@@ -66,7 +66,6 @@ Known Issues and Challenges
     - Getting my project topic based on my interest.
     - Found fragmented data.
 
-Conclusion
   In summary, my analysis highlights:
 
 1.  A positive correlation between healthy life expectancy and GDP per capita, indicating that economic
