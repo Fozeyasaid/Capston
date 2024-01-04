@@ -13,7 +13,7 @@ Table of Contents
 
 Presentation:
 
-
+https://public.tableau.com/views/CapstoneProject_17043199485000/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Summary/Introduction
 
@@ -67,11 +67,13 @@ Known Issues and Challenges
     - Found fragmented data.
 
 Conclusion
-  In summary, my analysis shows a positive correlation between healthy life expectancy and GDP per capita,
-  suggesting that economic progress may to improve healthcare and overall well-being. However, the relationship
-  between healthy life expectancy and BMI is more complex, and it is crucial of considering other factors.
-  Examining differences in income groups, regions, and outliers within a specific country highlights the necessity
-  for targeted global health policies. Overall, the analysis provides valuable insights into global healthy life 
-  expectancy and well-being.
+  In summary, my analysis highlights:
+
+1.  A positive correlation between healthy life expectancy and GDP per capita, indicating that economic
+    progress may positively impact healthcare and overall well-being.
+2.  Recognition of an unclear correlation between healthy life expectancy and BMI, emphasizing the 
+    importance of considering BMI along with other factors for accurate health outcomes.
+3.  The importance of addressing differences in income groups, regions, and outliers within a specific
+    country, underlining the need for specific global health plans that focus on variations worldwide.
 
 
