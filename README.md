@@ -11,6 +11,10 @@ Table of Contents
     - Known Issues and Challenges
     - Conclusion
 
+Presentation:
+
+
+
 Summary/Introduction
 
     Healthy life expectancy is a multidimensional concept influenced by various factors that 
@@ -60,16 +64,14 @@ Known Issues and Challenges
     - Get data in my own data frame.
 	- Looking UpToDate data.
     - Getting my project topic based on my interest.
-    - found a lot of missing data especially in BMI table.
+    - Found fragmented data.
 
 Conclusion
-    My analysis reveals a positive correlation between healthy life expectancy and GDP per capita,
-    indicating a potential contribution of economic development to improved health care and overall well-being.
-    However, the relationship between healthy life expectancy and BMI is nuanced. Recognizing the importance of
-    considering BMI along with other factors is crucial for having a significant connection. Uncovering  variations
-    in income groups, regions and outliers in a specific country underscores the necessity for targeted policies on
-    global scale. Overall analysis provides valuable insights to the complex interplay between health outcomes,
-    economic development and lifestyle factors across a diverse nation, emphasizing the need for nuanced and 
-    adaptable approaches to public health policies globally.
+  In summary, my analysis shows a positive correlation between healthy life expectancy and GDP per capita,
+  suggesting that economic progress may to improve healthcare and overall well-being. However, the relationship
+  between healthy life expectancy and BMI is more complex, and it is crucial of considering other factors.
+  Examining differences in income groups, regions, and outliers within a specific country highlights the necessity
+  for targeted global health policies. Overall, the analysis provides valuable insights into global healthy life 
+  expectancy and well-being.
 
 
